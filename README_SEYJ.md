@@ -2,6 +2,8 @@
 
 ## Rendering
 
+[Single Page Applications vs. Server Side Rendering vs. Generadores de Sitios Estáticos](https://platzi.com/blog/spa-vs-ssr-vs-static-site-generators/)
+
 **_Procesar pedazos de código y datos para mostrar su resultado_**
 
 ### Modos de rendering
